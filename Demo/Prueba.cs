@@ -7,5 +7,6 @@ namespace Demo
 {
     public class Prueba
     {
+        string x = "1";
     }
 }
